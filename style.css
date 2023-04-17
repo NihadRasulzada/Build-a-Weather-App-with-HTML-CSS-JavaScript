@@ -6,10 +6,10 @@ body {
 	margin: 0;
 	font-family: "Open Sans", sans-serif;
 	background: #222;
-		background-image: url("https://source.unsplash.com/1600x900/?landscape");
-	background-repeat: no-repeat;
+	background-image: url("https://source.unsplash.com/1600x900/?landscape");
 	font-size: 120%;
 }
+
 
 .card {
 	background: #000000d0;
